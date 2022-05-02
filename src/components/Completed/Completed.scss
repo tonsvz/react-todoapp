@@ -1,0 +1,21 @@
+.btn-wrapper {
+  width: 70%;
+  //   background-color: yellow;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+
+  .del-btn {
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-size: 13px;
+    color: #fff;
+    border: none;
+    background-color: #eb5757;
+    margin-top: 30px;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    line-height: 17px;
+  }
+}
